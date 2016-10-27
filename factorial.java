@@ -9,7 +9,7 @@ public static void main()
        {
          fact=fact*i;
        }
-     System.out.println("factorial the number",fact);
+     System.out.println("factorial the number",+fact);
      
 }
 
